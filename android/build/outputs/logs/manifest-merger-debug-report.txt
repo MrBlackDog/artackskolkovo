@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:3:5-26
+		INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+		INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:17:22-62
+application
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:18:5-35:19
+	android:label
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:23:9-41
+	android:appCategory
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:20:9-45
+	android:allowBackup
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:24:9-40
+	android:isGame
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:21:9-30
+activity#com.artack2.AndroidLauncher
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:25:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:27:13-45
+	android:configChanges
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:29:13-107
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:26:13-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+		INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+		ADDED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml
+		INJECTED from C:\Users\BlackDog\Desktop\artack2\android\AndroidManifest.xml

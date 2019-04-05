@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":android" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":android" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.5.0-alpha09" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.5.0-alpha09" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Desktop/artack2/android/res;file://$USER_HOME$/Desktop/artack2/android/build/generated/res/rs/debug;file://$USER_HOME$/Desktop/artack2/android/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/Desktop/artack2/android">
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/source/apt/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/res/rs/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/res/resValues/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/source/apt/test/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/artack2/android/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/not_namespaced_r_class_sources" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/generated/source/r" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/annotation_processor_list" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/apk_list" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/blame" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/bundle_manifest" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/check_manifest_result" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/compatible_screen_manifest" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/dex" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/duplicate_classes_check" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/external_libs_dex" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/incremental" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/instant_app_manifest" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/javac" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/merged_assets" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/merged_java_res" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/merged_jni_libs" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/merged_manifests" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/merged_native_libs" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/merged_shaders" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/metadata_feature_manifest" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/processed_res" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/renderscript_lib" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/res" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/rs" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/shader_assets" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/signing_config" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/symbols" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/tmp" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/transforms" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/intermediates/validate_signing_config" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/outputs" />
+      <excludeFolder url="file://$USER_HOME$/Desktop/artack2/android/build/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform (2)" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-bullet:1.9.9@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx:1.9.9@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-box2d:1.9.9@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-freetype:1.9.9@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.Navigine:Android-SDK:20190228@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.box2dlights:box2dlights:1.4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-backend-android:1.9.9@jar" level="project" />
+    <orderEntry type="module" module-name="core" />
+    <orderEntry type="module" module-name="core" />
+    <orderEntry type="module" module-name="core" />
+  </component>
+</module>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_background_color">#FFFFFFFF</color>
+    <string name="No_necessary_sensor">Sorry, there are no necessary sensors in your phone.
+        The application will be closed.</string>
+    <string name="Permission_Error">Permission Error</string>
+    <string name="Permission_Explanation">In order to work application requires: Camera. Using the Camera AR application can create a virtual objects in front of you that you can interact with.</string>
+    <string name="Request_Permission">
+        Please accept all required permissions.\n
+        Otherwise it will not work correctly or will not work.</string>
+    <string name="app_name">artack2</string>
+    <style name="GdxTheme" parent="android:Theme">
+		<item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
